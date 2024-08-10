@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="zpe-servant">
+    <output-path>$USER_HOME$/Dropbox/Programs/JARs</output-path>
+    <root id="archive" name="zpe-servant.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ZPEServant" />
+    </root>
+  </artifact>
+</component>
